@@ -1,2 +1,2 @@
 # Cloud-Radial-PowerShell-Module
-Module written for Cloud Radial
+Module written by Chris Davis from Bay Technologies for use with Cloud Radial beta API.
