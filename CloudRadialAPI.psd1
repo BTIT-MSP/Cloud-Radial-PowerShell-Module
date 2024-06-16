@@ -75,7 +75,5 @@
     RequiredModules = @()
 
     # Additional metadata attributes.
-    # These attributes are meant to inform consumers about the module capabilities.
-    # They don't affect module loading.
     CompatiblePSEditions = @('Core', 'Desktop')
 }
