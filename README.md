@@ -25,14 +25,20 @@ Get-CRToken -CompanyID <SomeID>
 
 # Common API params
 Skip - The number of records to skip over before returning results. Leave blank or enter 0 for the first page.
+
 Take - The number of records to return. The default is 10. Using a Skip value of 10 and a Take value of 10 returns the second page of records.
+
 Order - The field to sort the results by.
+
 Direction - The sort order of the results.
     a - Ascending
     d - Descending.
+
 Filter - Enter a field name for the filter.
+
 Condition - Enter a test condition.
     eq - Equals
     contains - Contains
+    
 Value - Enter a value to test the filter against
 
