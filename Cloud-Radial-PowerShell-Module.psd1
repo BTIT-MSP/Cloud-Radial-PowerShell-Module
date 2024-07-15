@@ -3,7 +3,7 @@
     RootModule = 'Cloud-Radial-PowerShell-Module.psm1'
 
     # Version number of this module.
-    ModuleVersion = '1.0.0'
+    ModuleVersion = '1.0.1'
 
     # ID used to uniquely identify this module
     GUID = '3247fec2-895a-405b-b7d0-9a8c3bcedb84'
@@ -28,6 +28,7 @@
         'Connect-CloudRadialAPI',
         'Get-CRArchive',
         'Add-CRArchive',
+        'Add-CRArchiveItem',
         'Remove-CRArchive',
         'Get-CRArchiveItem',
         'Add-CRArchiveItem',
